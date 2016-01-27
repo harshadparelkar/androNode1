@@ -1,0 +1,22 @@
+{
+  "name": "andronode",
+  "version": "0.1.0",
+  "description": "andronode",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "harshad",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "express": "~3.2.6"
+  }
+}
